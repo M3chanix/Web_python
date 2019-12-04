@@ -1,0 +1,3 @@
+#!/usr/bin/zsh-5.7.1
+cd ~/study/web-python/lab7
+python -m http.server --cgi
